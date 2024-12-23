@@ -6,7 +6,6 @@ import Login from "./page/Login";
 import ProductDetail from "./page/ProductDetail";
 import Navbar from "./component/Navbar";
 import { useEffect, useState } from "react";
-import UserInfo from "./page/UserInfo";
 import PrivateRoute from "./route/PrivateRoute";
 
 // 1. 전체상품페이지, 로그인 페이지, 상품상세 페이지
